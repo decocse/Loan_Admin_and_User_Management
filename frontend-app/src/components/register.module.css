@@ -1,0 +1,21 @@
+.RegisterCard {
+    display: block;
+    
+    margin: auto;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 5em;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px solid black;
+    /* border-radius: 5%; */
+    padding: 2%;
+
+}
+
+.reg-btn {
+    display: block;
+	margin: auto;
+	width: 100%;
+}

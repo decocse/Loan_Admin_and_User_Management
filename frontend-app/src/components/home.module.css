@@ -1,0 +1,41 @@
+.cardStyle {
+	width: 90%;
+	flex-direction: row;
+	align-items: center;
+	height: 75vh;
+	margin: 10vh auto;
+	/* border: 1px solid red; */
+	/* box-shadow: #FF4742AA 0px 5px 15px; */
+}
+
+.cardImg {
+	width: 80%;
+	height: 100%;
+	/* border-radius: 15px; */
+}
+
+.homelogo {
+	width: 8rem;
+	height: 8rem;
+	display: block;
+  	margin: auto;
+	border-radius: 15px;
+}
+
+.cardtext {
+	font-weight: bold;
+	/* font-family: 'Times New Roman', Times, serif; */
+	font-size: large;
+	text-align: center;
+}
+
+.logoname {
+	text-align: center;
+	font-weight: bolder;
+}
+
+.homeBtn {
+	display: block;
+	margin: auto;
+	width: 100%;
+}
